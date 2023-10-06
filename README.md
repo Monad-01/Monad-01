@@ -1,8 +1,42 @@
-<h1>Hello, I'm Johnathan 
-  <br/> <a href="https://www.linkedin.com/in/monad01"> Software Developer | Computer Technician | Tech Enthusiast</a>
+# Hello, I'm Johnathan
+**`Computer Wizard in Training`**
+
+As a software engineer, I have always been eager to learn about various aspects of technology. Over the years, I have gained experience in software development, cybersecurity, networking, databases, and cloud development, among others. My development approach is to gain a thorough understanding of how different technologies integrate with each other. By grasping how websites or applications interact seamlessly, I can create software that is not only efficient but also easy to use. It is like solving a puzzle where each piece represents a different aspect of technology, and my job is to ensure that they all fit seamlessly and consistently.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monad01/)
+
+---
+
+💡**Working On:💡** 
+
+My capstone project. I'm trying to create a text-based RPG using the OpenAI LLM, and then deploy the application to the cloud.
+
+---
+
+### Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<br />
+
+--- 
   
-  <br/> :globe_with_meridians:  Eagerly exploring how technology integrates with itself </h1>
-<h2>👨‍💻 Software Development Projects 👨‍💻</h2>
+<h3>👨‍💻 Software Development Projects 👨‍💻</h3>
 
 - <b> Spring Applications </b>
   - [Microservice Practice](https://github.com/Monad-01/dummyservice)
@@ -15,3 +49,8 @@
   - [Curated](https://github.com/willfbren/curated-app)
     - Built with Ruby on Rails, Javascript, and CSS
   
+
+
+
+
+
