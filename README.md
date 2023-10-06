@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Johnathan Pruitt</h1>
-<h3 align="center">Exploring how technology integrates with itself</h3>
+<h1 align="center">Hi, I'm Johnathan!</h1>
+<h3 align="center">Continuously exploring how technology integrates with itself</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monad-01&label=Profile%20views&color=0e75b6&style=flat" alt="monad-01" /> </p>
 
