@@ -48,7 +48,8 @@ IOT Project for Hydroponics. Easily monitor the status of hydroponic gardens.
     - Built with Ruby on Rails, ReactJS, OpenWeatherAPI, NasaAPI
   - [Curated](https://github.com/willfbren/curated-app)
     - Built with Ruby on Rails, Javascript, and CSS
-  
+  - [IOT Hydroponics](https://github.com/Monad-01/Hydroponics-Project)
+    - Built using Arduino, C++
 
 
 
