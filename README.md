@@ -9,7 +9,7 @@ As a software engineer, I have always been eager to learn about various aspects 
 
 💡**Working On:💡** 
 
-My capstone project. I'm trying to create a text-based RPG using the OpenAI LLM, and then deploy the application to the cloud.
+IOT Project for Hydroponics. Easily monitor the status of hydroponic gardens.
 
 ---
 
