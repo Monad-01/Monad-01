@@ -1,5 +1,5 @@
 # Hello, I'm Johnathan
-**`Computer Wizard in Training`**
+**`Computer Wizard`**
 
 As a software engineer, I have always been eager to learn about various aspects of technology. Over the years, I have gained experience in software development, cybersecurity, networking, databases, and cloud development, among others. My development approach is to gain a thorough understanding of how different technologies integrate with each other. By grasping how websites or applications interact seamlessly, I can create software that is not only efficient but also easy to use. It is like solving a puzzle where each piece represents a different aspect of technology, and my job is to ensure that they all fit seamlessly and consistently.
 
